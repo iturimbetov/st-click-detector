@@ -4,7 +4,7 @@ import ResizeObserver from 'resize-observer-polyfill';
 // Import Source Sans Pro font
 let link = document.createElement('link')
 link.rel = 'stylesheet'
-link.href = "https://fonts.googleapis.com/css?family=Source+Sans+Pro"
+link.href = "https://github.com/soulshined/ft-syntax-highlight/blob/master/src/ft-syntax-highlight.css"
 document.head.appendChild(link);
 
 // Transparent pixel so that the iframe's height is properly computed in case of margins
